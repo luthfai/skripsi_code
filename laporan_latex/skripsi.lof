@@ -1,0 +1,40 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Robotis-OP3}}{11}{figure.caption.10}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Sistem Robotis-OP3}}{11}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Dynamixel X-Series}}{12}{figure.caption.12}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Perbedaan ML dan DL}}{15}{figure.caption.13}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Ilustrasi Jaringan Saraf Tiruan pada Deep Learning}}{15}{figure.caption.14}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Arsitektur AlexNet}}{16}{figure.caption.15}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Hasil ILSVRC-2010 AlexNet}}{16}{figure.caption.16}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Arsitektur jaringan MeTRAbs}}{19}{figure.caption.17}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Keunggulan MeTRAbs}}{19}{figure.caption.18}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Arsitektur DeciWatch}}{21}{figure.caption.19}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Diagram Alir Penelitian}}{26}{figure.caption.20}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces \textit {Dataset} AIST++}}{29}{figure.caption.21}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Tari Denok Semarangan}}{29}{figure.caption.22}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Diagram Alur Pengolahan Data}}{30}{figure.caption.23}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Diagram Arsitektur Sistem}}{37}{figure.caption.24}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Flowchart Perancangan Sistem}}{39}{figure.caption.25}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Perancangan Antarmuka Sistem}}{42}{figure.caption.26}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Tampilan fisik robot ROBOTIS-OP3 setelah modifikasi}}{54}{figure.caption.27}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Visualisasi sistem koordinat robot}}{55}{figure.caption.28}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Tampilan awal website sebelum interaksi pengguna}}{66}{figure.caption.29}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Proses upload dan pemilihan video}}{67}{figure.caption.30}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Tampilan proses estimasi pose 3D sedang berjalan}}{68}{figure.caption.31}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Hasil visualisasi pose 3D setelah proses estimasi selesai}}{68}{figure.caption.32}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Tampilan saat proses penyimpanan data sudut sendi}}{69}{figure.caption.33}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Tampilan saat proses playback gerakan robot berjalan}}{69}{figure.caption.34}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Grafik perubahan sudut sendi robot per frame pada lengan kiri, lengan kanan, dan kepala}}{72}{figure.caption.35}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Visualisasi motion imitation pada gerakan tari tradisional: frame video asli, rangka hasil estimasi 3D, dan gerakan robot}}{74}{figure.caption.36}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Visualisasi motion imitation untuk cakupan gerakan: frame video asli, rangka hasil estimasi 3D, dan gerakan robot}}{75}{figure.caption.37}%
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Perbandingan nilai loss dan learning rate terhadap epoch (1--20)}}{79}{figure.caption.38}%
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Perbandingan MPJPE antara input dan output pada sesi pelatihan pertama}}{79}{figure.caption.39}%
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Perbandingan nilai loss dan learning rate terhadap epoch (21--45)}}{80}{figure.caption.40}%
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Perbandingan MPJPE antara input dan output pada sesi pelatihan kedua}}{80}{figure.caption.41}%
+\contentsline {figure}{\numberline {6.8}{\ignorespaces Perbandingan koordinat X, Y, dan Z hasil estimasi pose 3D antara Metrabs (\textit {Raw}) dan DeciWatch (\textit {Filtered})}}{81}{figure.caption.43}%
+\addvspace {10\p@ }

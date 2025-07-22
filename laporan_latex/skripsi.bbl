@@ -1,0 +1,730 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Ahmad%
+}{%
+Ahmad%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+ahmad2017mengenal}
+\APACinsertmetastar {%
+ahmad2017mengenal}%
+\begin{APACrefauthors}%
+Ahmad, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Mengenal artificial intelligence, machine learning, neural network, dan deep learning} {Mengenal artificial intelligence, machine learning, neural network, dan deep learning}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{J. Teknol. Indones., no. October}{3}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Cholissodin%
+, Sutrisno%
+, Soebroto%
+, Hasanah%
+\BCBL {}\ \BBA {} Febiola%
+}{%
+Cholissodin%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2020}}%
+}]{%
+cholissodin2020ai}
+\APACinsertmetastar {%
+cholissodin2020ai}%
+\begin{APACrefauthors}%
+Cholissodin, I.%
+, Sutrisno, S.%
+, Soebroto, A.%
+, Hasanah, U.%
+\BCBL {}\ \BBA {} Febiola, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {AI, machine learning and deep learning} {Ai, machine learning and deep learning}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Fakultas Ilmu Komputer, Universitas Brawijaya, Malang}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Damar%
+\ \protect \BOthers {.}}{%
+Damar%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2023}}%
+}]{%
+damar2023football}
+\APACinsertmetastar {%
+damar2023football}%
+\begin{APACrefauthors}%
+Damar, S\BPBI I.%
+, Firdaus, M\BPBI R.%
+, Hamdi, N.%
+, Firmansyah, R\BPBI C.%
+, Sendari, S.%
+, Mahandi, Y\BPBI D.%
+\BCBL {}\ \BBA {} Zaeni, I\BPBI A\BPBI E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Football Humanoid Goalkeeper Robot Movement System Using Optimization of Head Movements} {Football humanoid goalkeeper robot movement system using optimization of head movements}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {2023 8th International Conference on Electrical, Electronics and Information Engineering (ICEEIE)} {2023 8th international conference on electrical, electronics and information engineering (iceeie)}\ (\BPGS\ 1--6).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Dhimas%
+, Santoso%
+\BCBL {}\ \BBA {} Hartayu%
+}{%
+Dhimas%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2024}}%
+}]{%
+sa2024pengembangan}
+\APACinsertmetastar {%
+sa2024pengembangan}%
+\begin{APACrefauthors}%
+Dhimas, W\BPBI A.%
+, Santoso, K\BPBI S.%
+\BCBL {}\ \BBA {} Hartayu, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Pengembangan Kontrol Robot Mobil dengan Kerangka Kerja Robot Operating System} {Pengembangan kontrol robot mobil dengan kerangka kerja robot operating system}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Elsains: Jurnal Elektro}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Imania%
+, Subur%
+, Taufiqurrohman%
+\BCBL {}\ \BBA {} Thaha%
+}{%
+Imania%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2023}}%
+}]{%
+imania2023identifikasi}
+\APACinsertmetastar {%
+imania2023identifikasi}%
+\begin{APACrefauthors}%
+Imania, A.%
+, Subur, J.%
+, Taufiqurrohman, M.%
+\BCBL {}\ \BBA {} Thaha, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Identifikasi Frekuensi Musik pada Robot Humanoid Seni Tari untuk Penyelaras Gerak Tarian Menggunakan Metode K-Nearest Neighbor} {Identifikasi frekuensi musik pada robot humanoid seni tari untuk penyelaras gerak tarian menggunakan metode k-nearest neighbor}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Seminar Nasional Teknik Elektro.} {Seminar nasional teknik elektro.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Jalil%
+}{%
+Jalil%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+jalil2016rancang}
+\APACinsertmetastar {%
+jalil2016rancang}%
+\begin{APACrefauthors}%
+Jalil, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Rancang Bangun Robot Humanoid} {Rancang bangun robot humanoid}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Proceeding, Konferensi Nasional Ilmu Komputer (KONIK APTIKOM), ISSN}{}{}{2338--2899}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kim%
+, Choi%
+, Ha%
+\BCBL {}\ \BBA {} Choi%
+}{%
+Kim%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2023}}%
+}]{%
+kim2023human}
+\APACinsertmetastar {%
+kim2023human}%
+\begin{APACrefauthors}%
+Kim, J\BHBI W.%
+, Choi, J\BHBI Y.%
+, Ha, E\BHBI J.%
+\BCBL {}\ \BBA {} Choi, J\BHBI H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Human pose estimation using mediapipe pose and optimization method based on a humanoid model} {Human pose estimation using mediapipe pose and optimization method based on a humanoid model}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Applied sciences}{13}{4}{2700}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Krizhevsky%
+, Sutskever%
+\BCBL {}\ \BBA {} Hinton%
+}{%
+Krizhevsky%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2012}}%
+}]{%
+NIPS2012_c399862d}
+\APACinsertmetastar {%
+NIPS2012_c399862d}%
+\begin{APACrefauthors}%
+Krizhevsky, A.%
+, Sutskever, I.%
+\BCBL {}\ \BBA {} Hinton, G\BPBI E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {ImageNet Classification with Deep Convolutional Neural Networks} {Imagenet classification with deep convolutional neural networks}.{\BBCQ}
+\newblock
+\BIn{} F.~Pereira, C.~Burges, L.~Bottou\BCBL {}\ \BBA {} K.~Weinberger\ (\BEDS), \APACrefbtitle {Advances in Neural Information Processing Systems} {Advances in neural information processing systems}\ (\BVOL~25).
+\newblock
+\APACaddressPublisher{}{Curran Associates, Inc.}
+\newblock
+\begin{APACrefURL} \url{https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Li%
+, Yang%
+, Ross%
+\BCBL {}\ \BBA {} Kanazawa%
+}{%
+Li%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2021}}%
+}]{%
+li2021ai}
+\APACinsertmetastar {%
+li2021ai}%
+\begin{APACrefauthors}%
+Li, R.%
+, Yang, S.%
+, Ross, D\BPBI A.%
+\BCBL {}\ \BBA {} Kanazawa, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Ai choreographer: Music conditioned 3d dance generation with aist++} {Ai choreographer: Music conditioned 3d dance generation with aist++}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the IEEE/CVF International Conference on Computer Vision} {Proceedings of the ieee/cvf international conference on computer vision}\ (\BPGS\ 13401--13412).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Listiani%
+\ \BBA {} Rohaeni%
+}{%
+Listiani%
+\ \BBA {} Rohaeni%
+}{%
+{\protect \APACyear {2024}}%
+}]{%
+listiani2024pemanfaatan}
+\APACinsertmetastar {%
+listiani2024pemanfaatan}%
+\begin{APACrefauthors}%
+Listiani, W.%
+\BCBT {}\ \BBA {} Rohaeni, A\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {PEMANFAATAN ESTIMASI POSE GERAK PADA PENARI TRANCE DALAM RITUAL ADAT NGALAKSA} {Pemanfaatan estimasi pose gerak pada penari trance dalam ritual adat ngalaksa}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Jurnal Budaya Nusantara}{6}{3}{365--371}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Maharaj%
+}{%
+Maharaj%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+trigono2008maharaj}
+\APACinsertmetastar {%
+trigono2008maharaj}%
+\begin{APACrefauthors}%
+Maharaj, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{08}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Some insights from research literature for teaching and learning mathematics} {Some insights from research literature for teaching and learning mathematics}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{South African Journal of Education}{28}{}{401-414}.
+\newblock
+\begin{APACrefDOI} \doi{10.15700/saje.v28n3a182} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Marpaung%
+, Aulia%
+, Nabila%
+\BCBL {}\ \protect \BOthers {.}}{%
+Marpaung%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2022}}%
+}]{%
+marpaung2022computer}
+\APACinsertmetastar {%
+marpaung2022computer}%
+\begin{APACrefauthors}%
+Marpaung, F.%
+, Aulia, F.%
+, Nabila, R\BPBI C.%
+\BCBL {}\ \BOthersPeriod {.}\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{}{}.
+\newblock
+\APACrefbtitle {Computer Vision Dan Pengolahan Citra Digital.} {Computer vision dan pengolahan citra digital.}
+\newblock
+\APACaddressPublisher{}{PUSTAKA AKSARA}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mehta%
+\ \protect \BOthers {.}}{%
+Mehta%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+mehta2017vnect}
+\APACinsertmetastar {%
+mehta2017vnect}%
+\begin{APACrefauthors}%
+Mehta, D.%
+, Sridhar, S.%
+, Sotnychenko, O.%
+, Rhodin, H.%
+, Shafiei, M.%
+, Seidel, H\BHBI P.%
+\BDBL {}Theobalt, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Vnect: Real-time 3d human pose estimation with a single rgb camera} {Vnect: Real-time 3d human pose estimation with a single rgb camera}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Acm transactions on graphics (tog)}{36}{4}{1--14}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Meng%
+, Qiu%
+, Liang%
+\BCBL {}\ \BBA {} Ren%
+}{%
+Meng%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2023}}%
+}]{%
+10327198}
+\APACinsertmetastar {%
+10327198}%
+\begin{APACrefauthors}%
+Meng, S.%
+, Qiu, S.%
+, Liang, T.%
+\BCBL {}\ \BBA {} Ren, Q.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Motion Imitation of a Humanoid Robot via Pose Estimation} {Motion imitation of a humanoid robot via pose estimation}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {2023 35th Chinese Control and Decision Conference (CCDC)} {2023 35th chinese control and decision conference (ccdc)}\ (\BPG~1526-1532).
+\newblock
+\begin{APACrefDOI} \doi{10.1109/CCDC58219.2023.10327198} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Palazzolo%
+}{%
+Palazzolo%
+}{%
+{\protect \APACyear {1976}}%
+}]{%
+palazzolo1976rotation}
+\APACinsertmetastar {%
+palazzolo1976rotation}%
+\begin{APACrefauthors}%
+Palazzolo, A\BPBI B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1976}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Formalism for the Rotation Matrix of Rotations About an Arbitrary Axis} {Formalism for the rotation matrix of rotations about an arbitrary axis}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Classical Mechanics}{}{}{}.
+\newblock
+\APACrefnote{Derives 3×3 axis‑angle rotation matrix}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Robotis%
+}{%
+Robotis%
+}{%
+{\protect \APACyear {2023}}%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
+robotis_dynamixel}
+\APACinsertmetastar {%
+robotis_dynamixel}%
+\begin{APACrefauthors}%
+Robotis.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023{\protect \BCnt {1}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {DYNAMIXEL Overview} {Dynamixel overview}{\BBCQ}\ [\bibcomputersoftwaremanual].
+\newblock
+\begin{APACrefURL} \url{https://emanual.robotis.com/docs/en/dxl/} \end{APACrefURL}
+\newblock
+\APACrefnote{Diakses pada Juli 2025}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Robotis%
+}{%
+Robotis%
+}{%
+{\protect \APACyear {2023}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+robotis_manual}
+\APACinsertmetastar {%
+robotis_manual}%
+\begin{APACrefauthors}%
+Robotis.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023{\protect \BCnt {2}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {DYNAMIXEL Protocol 2.0} {Dynamixel protocol 2.0}{\BBCQ}\ [\bibcomputersoftwaremanual].
+\newblock
+\begin{APACrefURL} \url{https://emanual.robotis.com/docs/en/dxl/protocol2/} \end{APACrefURL}
+\newblock
+\APACrefnote{Diakses pada Juli 2025}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Robotis%
+}{%
+Robotis%
+}{%
+{\protect \APACyear {2023}}%
+{\protect \APACexlab {{\protect \BCnt {3}}}}}]{%
+robotis_sdk}
+\APACinsertmetastar {%
+robotis_sdk}%
+\begin{APACrefauthors}%
+Robotis.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023{\protect \BCnt {3}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {DYNAMIXEL SDK} {Dynamixel sdk}{\BBCQ}\ [\bibcomputersoftwaremanual].
+\newblock
+\begin{APACrefURL} \url{https://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_sdk/overview/} \end{APACrefURL}
+\newblock
+\APACrefnote{Diakses pada Juli 2025}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Robotis%
+}{%
+Robotis%
+}{%
+{\protect \APACyear {2023}}%
+{\protect \APACexlab {{\protect \BCnt {4}}}}}]{%
+robotis_op3}
+\APACinsertmetastar {%
+robotis_op3}%
+\begin{APACrefauthors}%
+Robotis.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023{\protect \BCnt {4}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {ROBOTIS-OP3 e-Manual} {Robotis-op3 e-manual}{\BBCQ}\ [\bibcomputersoftwaremanual].
+\newblock
+\begin{APACrefURL} \url{https://emanual.robotis.com/docs/en/platform/op3/specifications/} \end{APACrefURL}
+\newblock
+\APACrefnote{Diakses pada Juli 2025}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+S\'ar\'andi%
+, Linder%
+, Arras%
+\BCBL {}\ \BBA {} Leibe%
+}{%
+S\'ar\'andi%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2021}}%
+}]{%
+Sarandi2021metrabs}
+\APACinsertmetastar {%
+Sarandi2021metrabs}%
+\begin{APACrefauthors}%
+S\'ar\'andi, I.%
+, Linder, T.%
+, Arras, K\BPBI O.%
+\BCBL {}\ \BBA {} Leibe, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{MeTRAbs:} Metric-Scale Truncation-Robust Heatmaps for Absolute {3D} Human Pose Estimation} {{MeTRAbs:} metric-scale truncation-robust heatmaps for absolute {3D} human pose estimation}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{IEEE Transactions on Biometrics, Behavior, and Identity Science (T-BIOM)}{3}{1}{16--30}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Song%
+, Bronfman%
+, Zhang%
+, Sun%
+\BCBL {}\ \BBA {} Kim%
+}{%
+Song%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2024}}%
+}]{%
+song2024mixed}
+\APACinsertmetastar {%
+song2024mixed}%
+\begin{APACrefauthors}%
+Song, H.%
+, Bronfman, G.%
+, Zhang, Y.%
+, Sun, Q.%
+\BCBL {}\ \BBA {} Kim, J\BPBI H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Mixed Reality Interface for Whole-Body Balancing and Manipulation of Humanoid Robot} {Mixed reality interface for whole-body balancing and manipulation of humanoid robot}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {2024 21st International Conference on Ubiquitous Robots (UR)} {2024 21st international conference on ubiquitous robots (ur)}\ (\BPGS\ 642--647).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sun%
+, Xiao%
+, Liu%
+\BCBL {}\ \BBA {} Wang%
+}{%
+Sun%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2019}}%
+}]{%
+sun2019deep}
+\APACinsertmetastar {%
+sun2019deep}%
+\begin{APACrefauthors}%
+Sun, K.%
+, Xiao, B.%
+, Liu, D.%
+\BCBL {}\ \BBA {} Wang, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Deep high-resolution representation learning for human pose estimation} {Deep high-resolution representation learning for human pose estimation}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the IEEE/CVF conference on computer vision and pattern recognition} {Proceedings of the ieee/cvf conference on computer vision and pattern recognition}\ (\BPGS\ 5693--5703).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Vaswani%
+\ \protect \BOthers {.}}{%
+Vaswani%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+vaswani2017attention}
+\APACinsertmetastar {%
+vaswani2017attention}%
+\begin{APACrefauthors}%
+Vaswani, A.%
+, Shazeer, N.%
+, Parmar, N.%
+, Uszkoreit, J.%
+, Jones, L.%
+, Gomez, A\BPBI N.%
+\BDBL {}Polosukhin, I.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Attention Is All You Need.(Nips), 2017} {Attention is all you need.(nips), 2017}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv preprint arXiv:1706.03762}{10}{}{S0140525X16001837}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Wang%
+\ \protect \BOthers {.}}{%
+Wang%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2021}}%
+}]{%
+WANG2021103225}
+\APACinsertmetastar {%
+WANG2021103225}%
+\begin{APACrefauthors}%
+Wang, J.%
+, Tan, S.%
+, Zhen, X.%
+, Xu, S.%
+, Zheng, F.%
+, He, Z.%
+\BCBL {}\ \BBA {} Shao, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Deep 3D human pose estimation: A review} {Deep 3d human pose estimation: A review}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Computer Vision and Image Understanding}{210}{}{103225}.
+\newblock
+\begin{APACrefURL} \url{https://www.sciencedirect.com/science/article/pii/S1077314221000692} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{https://doi.org/10.1016/j.cviu.2021.103225} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Xu%
+, Zhang%
+, Zhang%
+\BCBL {}\ \BBA {} Tao%
+}{%
+Xu%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2022}}%
+}]{%
+xu2022vitpose}
+\APACinsertmetastar {%
+xu2022vitpose}%
+\begin{APACrefauthors}%
+Xu, Y.%
+, Zhang, J.%
+, Zhang, Q.%
+\BCBL {}\ \BBA {} Tao, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Vitpose: Simple vision transformer baselines for human pose estimation} {Vitpose: Simple vision transformer baselines for human pose estimation}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Advances in Neural Information Processing Systems}{35}{}{38571--38584}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Zeng%
+\ \protect \BOthers {.}}{%
+Zeng%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2022}}%
+}]{%
+zeng2022deciwatch}
+\APACinsertmetastar {%
+zeng2022deciwatch}%
+\begin{APACrefauthors}%
+Zeng, A.%
+, Ju, X.%
+, Yang, L.%
+, Gao, R.%
+, Zhu, X.%
+, Dai, B.%
+\BCBL {}\ \BBA {} Xu, Q.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Deciwatch: A simple baseline for 10$\times$ efficient 2d and 3d pose estimation} {Deciwatch: A simple baseline for 10$\times$ efficient 2d and 3d pose estimation}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {European Conference on Computer Vision} {European conference on computer vision}\ (\BPGS\ 607--624).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Zhu%
+, Qunfei%
+, Wan%
+\BCBL {}\ \BBA {} Xia%
+}{%
+Zhu%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+robust2017imitation}
+\APACinsertmetastar {%
+robust2017imitation}%
+\begin{APACrefauthors}%
+Zhu, T.%
+, Qunfei, Z.%
+, Wan, W.%
+\BCBL {}\ \BBA {} Xia, Z.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{11}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Robust Regression-Based Motion Perception for Online Imitation on Humanoid Robot} {Robust regression-based motion perception for online imitation on humanoid robot}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{International Journal of Social Robotics}{9}{}{1-21}.
+\newblock
+\begin{APACrefDOI} \doi{10.1007/s12369-017-0416-9} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

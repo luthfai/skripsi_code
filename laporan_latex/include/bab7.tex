@@ -1,0 +1,30 @@
+\chapter{KESIMPULAN DAN SARAN}
+\vspace{1em}
+
+\section{Kesimpulan}
+Berdasarkan hasil penelitian yang berjudul \textit{“Implementasi Pose Estimation untuk Pemodelan Gerak Tari Tradisional Indonesia pada Robot Humanoid ROBOTIS-OP3”}, dapat diambil beberapa kesimpulan sebagai berikut:
+
+\begin{enumerate}
+    \item Penelitian ini berhasil mengembangkan sistem estimasi pose 3D berbasis deep learning untuk menganalisis gerakan manusia. Model Metrabs digunakan sebagai baseline untuk deteksi awal pose, sedangkan DeciWatch digunakan untuk menyempurnakan prediksi secara temporal. Hasil pengujian menunjukkan bahwa MPJPE output berhasil diturunkan dari 107 mm (baseline) menjadi 64{,}98 mm setelah proses filtering temporal oleh DeciWatch.
+    
+    \item Data pose 3D yang dihasilkan berhasil diaplikasikan untuk menggerakkan robot humanoid ROBOTIS-OP3. Proses konversi dari koordinat 3D ke sudut servo dilakukan menggunakan metode \textit{Inverse Kinematics Transform}, sehingga robot mampu menirukan gerakan tari tradisional Indonesia. Pergerakan sudut sendi pada robot menunjukkan perubahan yang kontinu dan relatif halus pada setiap frame, dengan nilai sudut servo yang stabil sesuai data per frame.
+    
+    \item Aplikasi berbasis website berhasil dirancang dan dibangun untuk mengintegrasikan proses input video, estimasi pose 3D, konversi ke sudut servo, hingga eksekusi gerakan pada robot. Sistem ini memudahkan pengguna dalam mengoperasikan \textit{pipeline} secara terpadu dari antarmuka yang telah disediakan.
+    
+    \item Model DeciWatch hasil custom training dilatih selama dua sesi dengan total 45 \textit{epoch}, menghasilkan penurunan \textit{loss} dari 0{,}1666 pada sesi pertama menjadi 0{,}1522 pada sesi kedua. MPJPE output pada sesi pertama adalah 66{,}10 mm, sedangkan pada sesi kedua berhasil turun menjadi 64{,}98 mm dengan durasi total pelatihan 50 jam (24 jam pada sesi pertama dan 26 jam pada sesi kedua). Model custom ini memiliki performa lebih baik dibandingkan model pre-trained DeciWatch, yang memiliki MPJPE output sebesar 71{,}27 mm.
+\end{enumerate}
+
+
+\section{Saran}
+
+Berdasarkan hasil penelitian yang telah dilakukan, masih terdapat beberapa aspek yang dapat ditingkatkan dalam pengembangan sistem estimasi pose dan motion imitation pada penelitian berikutnya. Beberapa saran yang dapat diberikan antara lain:
+
+\begin{enumerate}
+    \item Menambah variasi dataset yang digunakan, termasuk data gerakan tari tradisional Indonesia dengan kondisi pencahayaan dan sudut pengambilan gambar yang lebih beragam, agar model lebih robust terhadap variasi lingkungan.
+    
+    \item Meningkatkan kompleksitas model estimasi pose dengan mengeksplorasi arsitektur lain yang memiliki resolusi temporal lebih tinggi, atau mengkombinasikan beberapa model dalam pendekatan ensemble learning.
+    
+    \item Mengembangkan metode inverse kinematics yang lebih adaptif terhadap keterbatasan fisik robot, sehingga perbedaan proporsi anatomi antara manusia dan robot dapat diminimalkan, dan hasil gerakan menjadi lebih natural.
+    
+    \item Melakukan pengujian lebih lanjut pada robot secara langsung dalam durasi lebih panjang untuk mengevaluasi ketahanan sistem kontrol gerakan dan kestabilan servo saat mereplikasi gerakan tari yang dinamis.
+\end{enumerate}

@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: skripsi.aux
+The style file: apacite.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: bibtex/daftar-pustaka.bib
+apacite.bst [2013/07/21 v6.03 APA bibliography style]
+Warning--`others' not consistent with 6th ed. of the APA Manual
+You've used 27 entries,
+            6951 wiz_defined-function locations,
+            1425 strings with 16357 characters,
+and the built_in function-call counts, 57487 in all, are:
+= -- 7138
+> -- 570
+< -- 2641
++ -- 2762
+- -- 67
+* -- 3630
+:= -- 9916
+add.period$ -- 122
+call.type$ -- 27
+change.case$ -- 503
+chr.to.int$ -- 0
+cite$ -- 54
+duplicate$ -- 1700
+empty$ -- 2246
+format.name$ -- 971
+if$ -- 11022
+int.to.chr$ -- 0
+int.to.str$ -- 89
+missing$ -- 0
+newline$ -- 730
+num.names$ -- 218
+pop$ -- 1321
+preamble$ -- 1
+purify$ -- 112
+quote$ -- 0
+skip$ -- 3546
+stack$ -- 0
+substring$ -- 3049
+swap$ -- 981
+text.length$ -- 106
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 2672
+warning$ -- 1
+while$ -- 344
+width$ -- 0
+write$ -- 947
+(There was 1 warning)

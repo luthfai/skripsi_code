@@ -1,0 +1,54 @@
+\chapter{PENDAHULUAN}
+\vspace{1em}
+
+\section{Latar Belakang}
+Kemajuan teknologi semakin berkembang pesat dalam kehidupan manusia saat ini, terutama dengan adanya internet yang semakin luas dan mudah diakses. Hal ini membuka peluang besar bagi inovasi di berbagai bidang, termasuk pengembangan dalam bidang robotika. Salah satu cabang robotika yang menarik perhatian adalah robot \textit{humanoid} yaitu robot yang memiliki struktur menyerupai manusia, seperti kepala, tangan, badan, dan kaki, serta mampu meniru sejumlah pergerakan manusia \cite{jalil2016rancang}.
+
+Teknologi robotika di Indonesia sudah banyak diaplikasikan sebagai teknologi yang mempermudah pekerjaan manusia terutama dalam bidang industri. Tidak hanya itu, kompetisi robot di Indonesia juga sering diselenggarakan untuk mendorong inovasi dan kreativitas mahasiswa serta pelajar dalam bidang robotika. Salah satu acara yang paling dikenal adalah Kontes Robot Indonesia (KRI) yang diselenggarakan oleh Balai Pengembangan Talenta Indonesia (BPTI). Kontes ini rutin diadakan setiap tahun untuk mengukur kemampuan mahasiswa dalam mendesain dan mengendalikan robot sesuai tema dan tantangan tertentu. KRI memiliki dua divisi yang melibatkan robot \textit{humanoid} yakni untuk melakukan misi bermain sepak bola pada Kontes Robot Sepak Bola Indonesia Humanoid (KRSBI-H) dan melakukan seni tari pada Kontes Robot Seni Tari Indonesia (KRSTI).
+
+Robot \textit{humanoid} yang digunakan pada KRSTI merupakan robot yang dapat melakukan tarian tradisional Indonesia dengan tema yang telah ditentukan. Dalam mencapai misinya, robot tentu harus menghayati dan bergerak sesuai dengan tarian dan musik aslinya \shortcite{imania2023identifikasi}. Pergerakan robot \textit{humanoid} dalam melakukan tarian masih dilakukan secara manual dengan menggerakkan setiap sendi robot untuk setiap pergerakan tari. Hal tersebut menyebabkan sulitnya pembuat gerakan untuk menerapkan gerakan yang diinginkan pada robot karena memakan banyaknya repetisi pada pergerakan serta pemborosan waktu.
+
+Dalam ajang KRSTI, setiap robot dalam kompetisi ini harus menampilkan tarian terbaik sesuai dengan tema tarian yang telah ditentukan. Salah satu kriteria penilaian utama adalah kemampuan robot untuk menari dan bergerak selaras dengan irama musik pengiring tema tarian tersebut. Selain itu, dua robot yang berpartisipasi harus dapat menari secara sinkron. Dalam ajang tersebut, Politeknik Negeri Malang telah beberapa kali berhasil lolos ke babak nasional. Namun, dalam pembuatan gerakan pada robot \textit{humanoid}, khususnya untuk tarian, prosesnya masih dilakukan secara manual. Hal ini menyebabkan kesulitan dalam menciptakan gerakan yang sesuai dengan keinginan, karena membutuhkan banyak repetisi pergerakan serta memakan waktu yang cukup lama, sehingga kurang efisien.
+
+Untuk mengatasi permasalahan tersebut, salah satu solusi yang dapat diterapkan adalah teknologi pose estimation. Teknologi ini memungkinkan robot \textit{humanoid} untuk melakukan gerakan tarian secara otomatis melalui analisis visual dari gerakan manusia yang direkam menggunakan kamera. DeciWatch adalah salah satu metode canggih dalam estimasi pose manusia 2D/3D yang memanfaatkan pendekatan inovatif berbasis \textit{transformers}. Dengan pendekatan \textit{sample-denoise-recover}, DeciWatch secara efisien hanya menggunakan 10\% frame video untuk estimasi, mengurangi \textit{noise} pada data dengan DenoiseNet, dan merekonstruksi pose yang tidak diamati menggunakan RecoverNet yang memanfaatkan korelasi spasial dan temporal. Metode ini mampu menghasilkan estimasi pose manusia yang lebih akurat, presisi, dan halus, menjadikannya solusi ideal untuk menghasilkan gerakan robot \textit{humanoid} yang lebih natural dan efisien.
+
+Dengan pose estimation, titik-titik kunci pada tubuh manusia, seperti sendi dan anggota tubuh, dapat diidentifikasi dan diterjemahkan ke dalam data koordinat yang digunakan untuk memprogram gerakan robot. Proses ini tidak hanya mengurangi kebutuhan repetisi manual, tetapi juga meningkatkan efisiensi waktu dalam pembuatan gerakan. Selain itu, pose estimation memungkinkan robot untuk menghasilkan gerakan yang lebih halus dan natural, sehingga performa robot dalam menari dapat ditingkatkan secara signifikan. Dengan penerapan teknologi ini, diharapkan robot \textit{humanoid} dapat lebih mudah memenuhi kriteria penilaian pada ajang seperti KRSTI. 
+
+
+\section{Rumusan Masalah}
+Berdasarkan uraian pada latar belakang diatas, permasalahan utama yang akan diangkat dalam penelitian ini adalah sebagai berikut:
+
+\begin{itemize}
+    \item Bagaimana memanfaatkan teknologi pose estimation untuk menganalisis gerakan manusia dan menghasilkan data pose dalam format 3D?
+    \item Bagaimana mengaplikasikan data pose 3D yang dihasilkan oleh pose estimation untuk memprogram gerakan robot \textit{humanoid} tari agar dapat meniru gerakan manusia?
+    \item Bagaimana merancang aplikasi yang dapat mengintegrasikan proses perekaman gerakan dan implementasi gerakan pada robot \textit{humanoid} tari dalam satu sistem berbasis website?
+    \item Bagaimana mengevaluasi hasil \textit{pose estimation} dan implementasi gerakan pada robot \textit{humanoid} tari yang telah dibangun?
+\end{itemize}
+
+\section{Batasan Masalah}
+Dari rumusan masalah diatas dapat dibuat suatu batasan-batasan masalah sebagai berikut:
+\begin{itemize}
+    \item Robot diam di tempat tanpa pergerakan translasi atau rotasi pada bagian kaki.
+    \item Sistem memanfaatkan \textit{Robot Operating System (ROS)} dengan bahasa pemrograman Python sebagai media komunikasi dan pengendalian sebagian pergerakan robot.
+    \item Pergerakan yang direplikasi hanya terbatas pada badan bagian atas, yaitu pergerakan lengan dan kepala, tanpa melibatkan sinkronisasi dengan musik.
+    \item Aplikasi pendukung dibangun berbasis \textit{website}, ditujukan untuk anggota tim robotik.
+    \item \textit{Dataset training} yang digunakan merupakan dataset \textit{pose estimation} yang tersedia secara publik di internet, bukan data yang diambil secara mandiri.
+\end{itemize}
+
+\section{Tujuan}
+Adapun tujuan dari dilakukannya penelitian ini adalah sebagai berikut:
+\begin{itemize}
+    \item Mengembangkan teknologi \textit{pose estimation} untuk menganalisis gerakan manusia dan menghasilkan data pose dalam format 3D secara akurat.
+    \item Mengaplikasikan data pose 3D yang dihasilkan untuk memprogram gerakan robot \textit{humanoid} tari sehingga dapat meniru gerakan manusia dengan presisi.
+    \item Merancang dan membangun aplikasi berbasis website yang mengintegrasikan proses perekaman gerakan dan implementasi gerakan pada robot \textit{humanoid} tari.
+    \item Untuk mengetahui evaluasi hasil \textit{pose estimation} dan implementasi gerakan pada robot \textit{humanoid} tari yang telah dibangun.
+\end{itemize}
+
+\section{Manfaat}
+Manfaat yang diharapkan dari penelitian ini adalah sebagai berikut:
+\begin{itemize}
+    \item Memberikan kontribusi dalam pengembangan teknologi robotika di Indonesia, khususnya dalam bidang robot \textit{humanoid} tari.
+    \item Mempermudah proses pembuatan gerakan tarian robot \textit{humanoid}, sehingga lebih efisien dalam waktu dan tenaga.
+    \item Meningkatkan daya saing Politeknik Negeri Malang dalam ajang kompetisi robotika, khususnya dalam bidang robot \textit{humanoid} tari.
+    \item Menjadi referensi bagi peneliti selanjutnya dalam pengembangan teknologi pose estimation dan implementasi gerakan pada robot \textit{humanoid} tari.
+\end{itemize}

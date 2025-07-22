@@ -1,0 +1,161 @@
+\documentclass{lib/skripsi}
+
+\usepackage{blindtext}
+\usepackage{pdfpages}
+
+%===========================================================
+% Definisi Data Peneliti, Judul, Pembimbing dan Penguji
+%-----------------------------------------------------------
+\titleskripsi{Implementasi \textit{Pose Estimation} untuk Pemodelan Gerak Tari Tradisional Indonesia pada Robot \textit{Humanoid} Tari Robotis OP3}
+
+\fullname{Aido Luthfi Al Hakim}
+\idnum{2141720136}
+
+\monthsubmit{Juli}
+\yearsubmit{2025}
+\datesubmit{16 Juli 2025}
+\program{Teknik Informatika}
+\dept{Teknologi Informasi}
+\faculty{Teknik}
+\university{Politeknik Negeri Malang}
+\city{Malang}
+
+\firstsupervisor{Wilda Imama Sabilla, S.Kom., M.Kom.}
+\firstsupervisorNIP{19920829 201903 2 023}
+\secondsupervisor{Ariadi Retno Tri Hayati Ririd, S.Kom., M.Kom.}
+\secondsupervisorNIP{19810810 200501 2 002}
+
+
+
+\firstexaminer{-}
+\firstexaminerNIP{-}
+\secondexaminer{-}
+\secondexaminerNIP{-}
+\headprogram{Ely Setyo Astuti, S.T., M.T.}
+\headprogramNIP{19760515 200912 2 001}
+\headdepartment{Prof. Dr. Eng. Rosa Andrie Asmara, S.T., M.T.}
+\headdepartmentNIP{19801010 200501 1 001}
+%-----------------------------------------------------------
+% End Definisi Data Peneliti, Judul, Pembimbing dan Penguji
+%===========================================================
+
+\begin{document}
+    % Cover page
+    \pagenumbering{roman} % Start Roman numbering
+    \pagestyle{roman} % Apply Roman style
+    \cover
+
+    % Approval page
+    \clearpage
+    \phantomsection
+    \addcontentsline{toc}{chapter}{LEMBAR PENGESAHAN}
+    lembar pengesahan
+    \thispagestyle{roman}
+    \newpage
+    % \approvalpage
+    % % \includepdf[pages=-]{include/lembar-pengesahan.pdf}
+
+    %===========================================================
+    % Daftar isi, daftar gambar, daftar tabel
+    %-----------------------------------------------------------
+    % \clearpage
+    % Authentication page
+    \phantomsection
+    \addcontentsline{toc}{chapter}{PERNYATAAN}
+    \authenticationpage
+    \clearpage
+
+    % Abstract page
+    \phantomsection
+    \thispagestyle{roman}
+    \abstractID{
+    Perkembangan teknologi robotika membuka peluang bagi inovasi dalam berbagai bidang, termasuk pelestarian budaya melalui media robot \textit{humanoid}. Salah satu penerapannya adalah pada Kontes Robot Seni Tari Indonesia (KRSTI), di mana robot diharuskan menampilkan gerakan tari tradisional secara natural dan sesuai dengan irama musik. Namun, pembuatan gerakan tari pada robot \textit{humanoid} saat ini masih dilakukan secara manual sehingga tidak efisien. Penelitian ini mengembangkan sistem \textit{pose estimation} untuk pemodelan gerak tari tradisional Indonesia pada robot \textit{humanoid} ROBOTIS-OP3. Sistem menggunakan model \textit{Metrabs} untuk deteksi pose 3D dan \textit{DeciWatch} untuk penyempurnaan prediksi temporal. Pengujian pada gerakan T-pose dan tari Denok Semarangan menunjukkan penurunan MPJPE dari 107 mm menjadi 64{,}98 mm, dengan \textit{loss} sebesar 0{,}1522 dan waktu pelatihan 50 jam menggunakan \textit{custom training}. Sistem ini mendukung pelestarian budaya berbasis teknologi.
+    }
+
+    \keywordsID{Pose Estimation, Robot Humanoid, OP3, Gerak Tari}
+    \abstractpageID
+    \clearpage
+    % Abstract page in English
+    \phantomsection
+    \thispagestyle{roman}
+    \abstractEN{
+    The development of humanoid robots provides opportunities for cultural preservation through robotic dance performance. However, creating dance movements for humanoid robots is still mostly done manually, resulting in inefficiency and time-consuming processes. This research develops a \textit{pose estimation} system for modeling Indonesian traditional dance movements on the ROBOTIS-OP3 robot. The system utilizes \textit{Metrabs} for 3D pose detection and \textit{DeciWatch} for temporal refinement. The output is converted into servo joint angles using \textit{Trigonometric Inverse Kinematics} with \textit{motion retargeting}. Tests on T-pose and Denok Semarangan dance show a reduction in MPJPE from 107 mm to 64.98 mm, with loss of 0.1522 and 50 hours of \textit{custom training}. This system promotes technology-based cultural preservation.
+    }
+
+
+    \keywordsEN{Pose Estimation, Humanoid Robot, OP3, Dance Movement}
+    \abstractpageEN
+    \clearpage
+
+    % preface
+    \phantomsection
+    \prefacepage
+
+
+    % Table of contents
+    \phantomsection
+    \addcontentsline{toc}{chapter}{DAFTAR ISI}
+    \tableofcontents
+    \clearpage
+
+    % List of figures
+    \phantomsection
+    \addcontentsline{toc}{chapter}{DAFTAR GAMBAR}
+    \listoffigures
+    \clearpage
+
+    % List of tables
+    \phantomsection
+    \addcontentsline{toc}{chapter}{DAFTAR TABEL}
+    \listoftables
+    \clearpage
+
+    \phantomsection
+    \addcontentsline{toc}{chapter}{DAFTAR LAMPIRAN}
+    \listofappendices
+    \clearpage
+
+    % Main content
+    \pagenumbering{arabic} % Switch to Arabic numbering
+    \pagestyle{fancy} % Apply main chapter style
+
+    %-----------------------------------------------------------
+    % End Daftar isi, daftar gambar, daftar tabel
+    %===========================================================
+    \makeatletter
+    \let\ps@plain\ps@chapterplain % Apply the "chapterplain" style to chapter title pages
+    \makeatother
+    %===========================================================
+    % Daftar masukan untuk Bab
+    %-----------------------------------------------------------
+    \setlength{\parskip}{0pt} % jarak antar paragraf
+    \input{include/bab1.tex}
+    \input{include/bab2.tex}
+    \input{include/bab3.tex}
+    \input{include/bab4.tex}
+    \input{include/bab5.tex}
+    \input{include/bab6.tex}
+    \input{include/bab7.tex}
+
+    %-----------------------------------------------------------
+    % End Daftar masukan untuk Bab
+    %===========================================================
+
+    %===========================================================
+    % Daftar Pustaka
+    %-----------------------------------------------------------
+    \renewcommand{\bibname}{DAFTAR PUSTAKA}
+    \titleformat{\chapter}[block]{\centering\bfseries\large}{\thesection.}{\enspace}{}{}
+    \titlespacing*{\chapter}{0pt}{0pt}{*}
+
+    \bibliography{bibtex/daftar-pustaka}
+    %-----------------------------------------------------------
+    % End Daftar Pustaka
+    %===========================================================
+    \clearpage
+
+    \phantomsection
+    \lampiran
+    \clearpage
+
+\end{document}
